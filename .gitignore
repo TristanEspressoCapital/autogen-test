@@ -1,0 +1,8 @@
+.env
+notes.txt
+OAI_CONFIG_LIST
+.venv
+.cache
+web/
+stocks/
+paper/
